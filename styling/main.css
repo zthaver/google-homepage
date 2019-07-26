@@ -1,0 +1,38 @@
+li {
+    display: inline;
+    position: absolute;
+   
+  
+   
+  
+  }
+  #About{
+    position: absolute;
+    top:1em; 
+   left:2em;
+  }
+  
+  li:hover{
+    text-decoration: underline;
+  }
+  #Store{
+    position: absolute;
+    top:1em; 
+   left:5em;
+  }
+  #test{
+    position: relative;
+    margin: 100px;
+  }
+  img{
+    position: absolute;
+     top:13em; 
+    left:36em;
+  }
+  form{
+    position: absolute;
+    top:19em; 
+    left:36em;
+  }
+  
+  
