@@ -1,15 +1,16 @@
 li {
     display: inline;
     position: absolute;
-   
-  
-   
-  
+
+  }
+  body{
+    font-size:0.9em;
+    font-family: Arial;
   }
   #About{
     position: absolute;
-    top:1em; 
-   left:2em;
+    top:1rem; 
+   left:2rem;
   }
   
   li:hover{
@@ -17,8 +18,8 @@ li {
   }
   #Store{
     position: absolute;
-    top:1em; 
-   left:5em;
+    top:1rem; 
+   left:5rem;
   }
   #test{
     position: relative;
@@ -26,13 +27,48 @@ li {
   }
   img{
     position: absolute;
-     top:13em; 
-    left:36em;
+     top:13rem; 
+    left:50rem;
   }
   form{
     position: absolute;
-    top:19em; 
-    left:36em;
+    top:19rem; 
+    left:42rem;
   }
-  
+  #gmail{
+    position: absolute;
+    top:1rem; 
+    left:107rem;
+  }
+  #images{
+    position: absolute;
+    top:1rem; 
+    left:110rem;
+
+  }
+  #accounticon{
+    border-radius: 50%;
+    top:0.4rem; 
+    left:116rem;
+    width: 32px;
+    height: 32px;
+  }
+  input{
+   
+    border-width: 0.04rem;
+  }
+  #searchbar{
+    position: absolute;
+    height : 3rem;
+    width : 44rem;
+    border-radius: 200px;
+    
+    
+  }
+  #microphone{
+    position: absolute;
+    top:19.5em; 
+    left:76em;
+    
+  }
   
