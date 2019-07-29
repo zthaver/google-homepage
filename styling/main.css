@@ -9,7 +9,7 @@ li {
   }
   #About{
     position: absolute;
-    top:1rem; 
+    top:2rem; 
    left:2rem;
   }
   
@@ -18,7 +18,7 @@ li {
   }
   #Store{
     position: absolute;
-    top:1rem; 
+    top:2rem; 
    left:5rem;
   }
   #test{
@@ -37,34 +37,70 @@ li {
   }
   #gmail{
     position: absolute;
-    top:1rem; 
+    top:2rem; 
     left:107rem;
   }
   #images{
     position: absolute;
-    top:1rem; 
+    top:2rem; 
     left:110rem;
 
   }
   #accounticon{
     border-radius: 50%;
-    top:0.4rem; 
+    top:0.8rem; 
     left:116rem;
-    width: 32px;
-    height: 32px;
+    width: 46px;
+    height: 46px;
+  }
+  #appsicon{
+  
+    top:0.8rem; 
+    left:112rem;
+  
+   
   }
   input{
    
     border-width: 0.04rem;
   }
   #searchbar{
-    position: absolute;
+
     height : 3rem;
     width : 44rem;
     border-radius: 200px;
+    border-width: 1px;
     
     
   }
+#lucky{
+  position: absolute;
+  top:4rem; 
+  left:22rem;
+  height: 3em;
+  width:10em;
+  font-size: 0.9rem;
+  background-color: #EDEDED;
+  border-radius: 1.2px;
+  border-width: 0px;
+}
+#googlesearch{
+  position: absolute;
+  top:4rem; 
+  left:12rem;
+  height: 3em;
+  width:10em;
+  font-size: 0.9rem;
+  border-radius: 1.2px;
+  border-width: 0px;
+  background-color: #EDEDED;
+
+}
+#appsicon{
+  top:1.6rem; 
+  left:113.5rem;
+  
+}
   #microphone{
     position: absolute;
     top:19.5em; 
